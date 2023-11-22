@@ -13,3 +13,7 @@ Yeni hazırladığım tatil planlama web sitesini sizlerle paylaşmak istiyorum!
 <h2>Kullanılan teknolojiler:</h2>
 
 HTML5, CSS3, JAVASCRIPT
+
+<h2>ekran görüntüsü</h2>
+
+![](ekran.gif)
