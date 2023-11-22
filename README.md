@@ -17,3 +17,7 @@ HTML5, CSS3, JAVASCRIPT
 <h2>ekran görüntüsü</h2>
 
 ![](ekran.gif)
+
+<h2>responsive ekran görüntüsü</h2>
+
+![](responsive.gif)
